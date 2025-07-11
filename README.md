@@ -1,3 +1,4 @@
+<img width="225" height="225" alt="download (5)" src="https://github.com/user-attachments/assets/3320c4ff-bcc4-4996-a8f7-32f734eadbfc" />
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/images/union-logo-white.svg">
